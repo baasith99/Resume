@@ -1,0 +1,20 @@
+.main{
+	width: 100%;
+	background-color: WhiteSmoke;
+	display: flex;
+	
+}
+.left{
+	width: 50%;
+	border: 2px solid peru;
+	background-color: LightGoldenRodYellow;
+}
+.right{
+	width: 30%;
+	border: 2px solid peru;
+	background-color: LightGoldenRodYellow;
+}
+img{
+	width: 50%;
+	border: 5px solid DarkRed;
+}
