@@ -45,6 +45,7 @@ h3
 {
 	 font-size: 30px;
 	 box-shadow: 3px 3px 3px Black;
+	 text-decoration: line;
 }
 @media only screen and (min-width: 320px) and (max-width: 550px) {
 .main{

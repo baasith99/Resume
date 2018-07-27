@@ -2,8 +2,25 @@
 	"details":{
 		"name":"Baasith",
 		"image":"image.jpg",
-		"PhNo":"7075495466",
+		"phone":"7075495466",
 		"email":"abdulbukku@gmail.com"
 
-	}
+	},
+	"education":[
+		{ 
+
+			"course":"B.Tech",
+			"college":"MIC College of Technology",
+			"percentage":"89%"
+		},
+		{
+			"course":"Intermediate",
+			"college":"Narayana Junior College",
+			"percentage":"98%"
+		},
+		{
+			"SSC":"Nalanda",
+			"Grade":"A++"
+		}
+				]
 }
