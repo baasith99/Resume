@@ -1,26 +1,42 @@
 {
 	"details":{
-		"name":"Baasith",
+		"name":"Abdul Baasith",
 		"image":"image.jpg",
 		"phone":"7075495466",
 		"email":"abdulbukku@gmail.com"
 
 	},
-	"education":[
+	"education": [
 		{ 
 
-			"course":"B.Tech",
+			"course":"B.Tech(C.S.E)",
 			"college":"MIC College of Technology",
-			"percentage":"89%"
+			"percentage":"72%"
 		},
 		{
-			"course":"Intermediate",
+			"course":"Intermediate(M.P.C)",
 			"college":"Narayana Junior College",
-			"percentage":"98%"
+			"percentage":"93%"
 		},
 		{
-			"SSC":"Nalanda",
-			"Grade":"A++"
+			"course":"SSC",
+			"college":"Nalanda",
+			"percentage":"95%"
 		}
-				]
+		],
+	"skills" :[
+		{
+			"title":"Programming Languages",
+			"output":[
+				"c","c++","java","python"
+			]
+		},
+		{
+			"title":"operating system",
+			"output":[
+				"Unix","Windows"
+			]
+		}
+	]
 }
+
