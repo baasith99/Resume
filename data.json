@@ -28,7 +28,7 @@
 		{
 			"title":"Programming Languages",
 			"output":[
-				"c","c++","java","python"
+				       "c","c++","java","python"
 			]
 		},
 		{
@@ -37,6 +37,8 @@
 				"Unix","Windows"
 			]
 		}
-	]
+	],
+	"carrier":{
+		"co":"To associate with organisation and utilise my technical skills to the growth of our company.Iam here to develop my knowledge and it is helpful to our organisation."
+	}
 }
-

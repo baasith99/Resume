@@ -12,6 +12,7 @@ function loadjson(file,callback) {
 loadjson("data.json",function(text){
 	let data=JSON.parse(text);
 	console.log(data);
+	car(data.carrier);
 	basic(data.details);
 	edu(data.education);
 	skill(data.skills);
@@ -39,6 +40,14 @@ var main=document.querySelector(".main");
 var right=document.createElement("div");
 right.classList.add("right");
 main.appendChild(right);
+function car(carrier){
+	var h1=document.createElement("h1");
+	h1.textContent="Carrier Object";
+	right.appendChild(h1);
+	var p=document.createElement("p");
+	p.textContent=carrier.co;
+	right.appendChild(p);
+}
 function edu(education){
 	var h1=document.createElement("h1");
 	h1.textContent="Educational Information";

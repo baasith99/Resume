@@ -42,7 +42,7 @@ h2
 	font-size: 20px;
 	box-shadow: 3px 3px 3px Black;
 }
-h3
+
 {
 	 font-size: 20px;
 }
@@ -60,4 +60,12 @@ h3
 		display: flex;
 		flex-direction: colomn;
 	}
+}
+.set table,td,tr{
+	border:2px solid;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
 }
